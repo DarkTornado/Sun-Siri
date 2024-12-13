@@ -1,4 +1,4 @@
-package com.darktornado.sunsiri;
+package com.iamcat.sunsiri;
 
 import android.Manifest;
 import android.app.AlertDialog;

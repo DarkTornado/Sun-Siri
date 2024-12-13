@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         });
         layout.addView(input);
         TextView maker = new TextView(this);
-        maker.setText("\nCopyleft 2017 고양이가 만들었다냥!\n");
+        maker.setText("\nCopyleft 2016-2024 고양이가 만들었다냥!\n");
         maker.setTextSize(13);
         maker.setTextColor(Color.BLACK);
         maker.setGravity(Gravity.CENTER);
